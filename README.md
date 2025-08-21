@@ -11,7 +11,7 @@
   - **Cybersecurity** (Pentesting, Web Security, Vulnerability Assessment)
   - Databases and Data Analysis
 -  Currently learning:  
-  - 📊 **Data Analysis with Python**  
+  - 🖥️ **Bulid windows form apps using C#**  
   - 🔒 **Advanced Penetration Testing (TryHackMe & HackTheBox)**  
  - 🎓 Diploma in **Technical Institute Computer (Software Engineering Specialization)**
 
