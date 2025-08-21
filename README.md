@@ -13,7 +13,7 @@
 -  Currently learning:  
   - 📊 **Data Analysis with Python**  
   - 🔒 **Advanced Penetration Testing (TryHackMe & HackTheBox)**  
- 
+ - 🎓 Diploma in **Technical Institute Computer (Software Engineering Specialization)**
 
 ---
 
